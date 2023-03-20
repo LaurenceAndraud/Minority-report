@@ -21,4 +21,4 @@ Création de services d’accès à l’eau potable ; Modernisation de services 
 Dans ce respository, il est possible de retrouver les fichiers et réalisations faites avec Tableau Desktop
 
 Voici le lien vers le rapport, sur Google Docs : https://docs.google.com/document/d/1oCPZLRszUXeA6ZEYIM5JqemeLbPZXBpcwu7IvuMn5tw/edit
-et le lien vers Tableau Public : https://prod-uk-a.online.tableau.com/#/site/minorityreportlaurence/workbooks/309357/views
+et le lien vers Tableau Public : https://prod-uk-a.online.tableau.com/#/site/minorityreportlaurence/workbooks/309437/views ; https://prod-uk-a.online.tableau.com/#/site/minorityreportlaurence/workbooks/309357/views ; https://prod-uk-a.online.tableau.com/#/site/minorityreportlaurence/workbooks/309460/views
